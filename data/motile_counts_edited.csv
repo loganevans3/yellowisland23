@@ -1,0 +1,407 @@
+intertidal_sitename,filename_prefix,intertidal_sort_order,latitude,longitude,biodiversity_site_code,GroupCode,MARINe_site_code,intertidal_geographic_region,intertidal_bioregion,SampleSeason,SamplingSeasonCode,TargetSpecies,graph_classification,quad_category,graph_sort,Sum(count),number_of_plots,mean_number_per_plot
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,118,SU10,fucus,Cyanoplax hartwegii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,118,SU10,fucus,Cyanoplax spp,chitons,2,3,5,0.6
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,118,SU10,fucus,Fissurella volcano,limpets,5,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,118,SU10,fucus,Hemigrapsus nudus,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,118,SU10,fucus,Limpet,limpets,5,2412.5,5,482.5
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,118,SU10,fucus,Littorina spp,snails,3,850,5,170
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,118,SU10,fucus,Mopalia spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,118,SU10,fucus,Nucella lamellosa,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,118,SU10,fucus,Nucella spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,118,SU10,fucus,Nuttallina spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,118,SU10,fucus,Ocenebra circumtexta,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,118,SU10,fucus,Ocenebra spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,118,SU10,fucus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,118,SU10,fucus,Pagurus spp,crustaceans,1,13,5,2.6
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,118,SU10,fucus,Tegula funebralis,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,118,SU10,fucus,Tonicella lineata/lokii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,chthamalus/balanus,Cyanoplax hartwegii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,chthamalus/balanus,Cyanoplax spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,chthamalus/balanus,Fissurella volcano,limpets,5,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,chthamalus/balanus,Hemigrapsus nudus,crustaceans,1,1,5,0.2
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,chthamalus/balanus,Limpet,limpets,5,458.25,5,91.65
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,chthamalus/balanus,Littorina spp,snails,3,3434.375,5,686.875
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,chthamalus/balanus,Mopalia spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,chthamalus/balanus,Nucella lamellosa,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,chthamalus/balanus,Nucella spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,chthamalus/balanus,Nuttallina spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,chthamalus/balanus,Ocenebra circumtexta,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,chthamalus/balanus,Ocenebra spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,chthamalus/balanus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,chthamalus/balanus,Pagurus spp,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,chthamalus/balanus,Tegula funebralis,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,chthamalus/balanus,Tonicella lineata/lokii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,fucus,Cyanoplax hartwegii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,fucus,Cyanoplax spp,chitons,2,2,5,0.4
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,fucus,Fissurella volcano,limpets,5,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,fucus,Hemigrapsus nudus,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,fucus,Limpet,limpets,5,1012.5,5,202.5
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,fucus,Littorina spp,snails,3,9.375,5,1.875
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,fucus,Mopalia spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,fucus,Nucella lamellosa,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,fucus,Nucella spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,fucus,Nuttallina spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,fucus,Ocenebra circumtexta,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,fucus,Ocenebra spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,fucus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,fucus,Pagurus spp,crustaceans,1,14,5,2.8
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,fucus,Tegula funebralis,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,122,SU11,fucus,Tonicella lineata/lokii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,chthamalus/balanus,Cyanoplax hartwegii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,chthamalus/balanus,Cyanoplax spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,chthamalus/balanus,Fissurella volcano,limpets,5,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,chthamalus/balanus,Hemigrapsus nudus,crustaceans,1,2,5,0.4
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,chthamalus/balanus,Limpet,limpets,5,204.875,5,40.975
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,chthamalus/balanus,Littorina spp,snails,3,7025,5,1405
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,chthamalus/balanus,Mopalia spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,chthamalus/balanus,Nucella lamellosa,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,chthamalus/balanus,Nucella spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,chthamalus/balanus,Nuttallina spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,chthamalus/balanus,Ocenebra circumtexta,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,chthamalus/balanus,Ocenebra spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,chthamalus/balanus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,chthamalus/balanus,Pagurus spp,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,chthamalus/balanus,Tegula funebralis,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,chthamalus/balanus,Tonicella lineata/lokii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,fucus,Cyanoplax hartwegii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,fucus,Cyanoplax spp,chitons,2,2,5,0.4
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,fucus,Fissurella volcano,limpets,5,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,fucus,Hemigrapsus nudus,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,fucus,Limpet,limpets,5,3225,5,645
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,fucus,Littorina spp,snails,3,37.5,5,7.5
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,fucus,Mopalia spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,fucus,Nucella lamellosa,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,fucus,Nucella spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,fucus,Nuttallina spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,fucus,Ocenebra circumtexta,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,fucus,Ocenebra spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,fucus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,fucus,Pagurus spp,crustaceans,1,11,5,2.2
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,fucus,Tegula funebralis,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,126,SU12,fucus,Tonicella lineata/lokii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,chthamalus/balanus,Cyanoplax hartwegii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,chthamalus/balanus,Cyanoplax spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,chthamalus/balanus,Fissurella volcano,limpets,5,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,chthamalus/balanus,Hemigrapsus nudus,crustaceans,1,1,5,0.2
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,chthamalus/balanus,Limpet,limpets,5,154.125,5,30.825
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,chthamalus/balanus,Littorina spp,snails,3,4250,5,850
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,chthamalus/balanus,Mopalia spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,chthamalus/balanus,Nucella lamellosa,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,chthamalus/balanus,Nucella spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,chthamalus/balanus,Nuttallina spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,chthamalus/balanus,Ocenebra circumtexta,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,chthamalus/balanus,Ocenebra spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,chthamalus/balanus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,chthamalus/balanus,Pagurus spp,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,chthamalus/balanus,Tegula funebralis,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,chthamalus/balanus,Tonicella lineata/lokii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,fucus,Cyanoplax hartwegii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,fucus,Cyanoplax spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,fucus,Fissurella volcano,limpets,5,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,fucus,Hemigrapsus nudus,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,fucus,Limpet,limpets,5,846.875,5,169.375
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,fucus,Littorina spp,snails,3,37.5,5,7.5
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,fucus,Mopalia spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,fucus,Nucella lamellosa,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,fucus,Nucella spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,fucus,Nuttallina spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,fucus,Ocenebra circumtexta,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,fucus,Ocenebra spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,fucus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,fucus,Pagurus spp,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,fucus,Tegula funebralis,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,130,SU13,fucus,Tonicella lineata/lokii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,chthamalus/balanus,Cyanoplax hartwegii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,chthamalus/balanus,Cyanoplax spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,chthamalus/balanus,Fissurella volcano,limpets,5,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,chthamalus/balanus,Hemigrapsus nudus,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,chthamalus/balanus,Limpet,limpets,5,260,5,52
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,chthamalus/balanus,Littorina spp,snails,3,5143.75,5,1028.75
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,chthamalus/balanus,Mopalia spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,chthamalus/balanus,Nucella lamellosa,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,chthamalus/balanus,Nucella spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,chthamalus/balanus,Nuttallina spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,chthamalus/balanus,Ocenebra circumtexta,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,chthamalus/balanus,Ocenebra spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,chthamalus/balanus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,chthamalus/balanus,Pagurus spp,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,chthamalus/balanus,Tegula funebralis,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,chthamalus/balanus,Tonicella lineata/lokii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Cyanoplax hartwegii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Cyanoplax spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Fissurella volcano,limpets,5,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Hemigrapsus nudus,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Limpet,limpets,5,784.375,5,156.875
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Littorina spp,snails,3,100,5,20
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Mopalia spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Nucella lamellosa,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Nucella spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Nuttallina spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Ocenebra circumtexta,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Ocenebra spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Pagurus spp,crustaceans,1,9,5,1.8
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Tegula funebralis,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Tonicella lineata/lokii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,chthamalus/balanus,Cyanoplax hartwegii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,chthamalus/balanus,Cyanoplax spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,chthamalus/balanus,Fissurella volcano,limpets,5,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,chthamalus/balanus,Hemigrapsus nudus,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,chthamalus/balanus,Limpet,limpets,5,476.375,5,95.275
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,chthamalus/balanus,Littorina spp,snails,3,8325,5,1665
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,chthamalus/balanus,Mopalia spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,chthamalus/balanus,Nucella lamellosa,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,chthamalus/balanus,Nucella spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,chthamalus/balanus,Nuttallina spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,chthamalus/balanus,Ocenebra circumtexta,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,chthamalus/balanus,Ocenebra spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,chthamalus/balanus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,chthamalus/balanus,Pagurus spp,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,chthamalus/balanus,Tegula funebralis,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,chthamalus/balanus,Tonicella lineata/lokii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Cyanoplax hartwegii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Cyanoplax spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Fissurella volcano,limpets,5,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Hemigrapsus nudus,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Limpet,limpets,5,578.125,5,115.625
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Littorina spp,snails,3,18.75,5,3.75
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Mopalia spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Nucella lamellosa,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Nucella spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Nuttallina spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Ocenebra circumtexta,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Ocenebra spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Pagurus spp,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Tegula funebralis,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Tonicella lineata/lokii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,chthamalus/balanus,Cyanoplax hartwegii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,chthamalus/balanus,Cyanoplax spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,chthamalus/balanus,Fissurella volcano,limpets,5,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,chthamalus/balanus,Hemigrapsus nudus,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,chthamalus/balanus,Limpet,limpets,5,334.375,5,66.875
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,chthamalus/balanus,Littorina spp,snails,3,18793.75,5,3758.75
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,chthamalus/balanus,Mopalia spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,chthamalus/balanus,Nucella lamellosa,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,chthamalus/balanus,Nucella spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,chthamalus/balanus,Nuttallina spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,chthamalus/balanus,Ocenebra circumtexta,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,chthamalus/balanus,Ocenebra spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,chthamalus/balanus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,chthamalus/balanus,Pagurus spp,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,chthamalus/balanus,Tegula funebralis,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,chthamalus/balanus,Tonicella lineata/lokii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Cyanoplax hartwegii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Cyanoplax spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Fissurella volcano,limpets,5,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Hemigrapsus nudus,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Limpet,limpets,5,1318.75,5,263.75
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Littorina spp,snails,3,15.625,5,3.125
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Mopalia spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Nucella lamellosa,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Nucella spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Nuttallina spp,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Ocenebra circumtexta,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Ocenebra spp,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Pagurus spp,crustaceans,1,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Tegula funebralis,snails,3,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Tonicella lineata/lokii,chitons,2,0,5,0
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,146,SU17,chthamalus/balanus,Limpet,limpets,5,175,5,35
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,146,SU17,chthamalus/balanus,Littorina spp,snails,3,4181.25,5,836.25
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Cyanoplax spp,chitons,2,1,5,0.2
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Limpet,limpets,5,2375,5,475
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Littorina spp,snails,3,6.25,5,1.25
+Post Point,postpoint,3500,48.7120018,-122.51913,,UCSC,POP,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Mopalia spp,chitons,2,1,5,0.2
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,barnacle,Cyanoplax hartwegii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,barnacle,Cyanoplax spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,barnacle,Fissurella volcano,limpets,5,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,barnacle,Hemigrapsus nudus,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,barnacle,Limpet,limpets,5,122.5,5,24.5
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,barnacle,Littorina spp,snails,3,2750,5,550
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,barnacle,Mopalia spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,barnacle,Nucella lamellosa,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,barnacle,Nucella spp,snails,3,6,5,1.2
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,barnacle,Nuttallina spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,barnacle,Ocenebra circumtexta,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,barnacle,Ocenebra spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,barnacle,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,barnacle,Pagurus spp,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,barnacle,Tegula funebralis,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,barnacle,Tonicella lineata/lokii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Cyanoplax hartwegii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Cyanoplax spp,chitons,2,2,5,0.4
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Fissurella volcano,limpets,5,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Hemigrapsus nudus,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Limpet,limpets,5,365.25,5,73.05
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Littorina spp,snails,3,28.125,5,5.625
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Mopalia spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Nucella lamellosa,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Nucella spp,snails,3,24,5,4.8
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Nuttallina spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Ocenebra circumtexta,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Ocenebra spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Pagurus spp,crustaceans,1,1,5,0.2
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Tegula funebralis,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,134,SU14,fucus,Tonicella lineata/lokii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,barnacle,Cyanoplax hartwegii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,barnacle,Cyanoplax spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,barnacle,Fissurella volcano,limpets,5,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,barnacle,Hemigrapsus nudus,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,barnacle,Limpet,limpets,5,38.375,5,7.675
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,barnacle,Littorina spp,snails,3,690.625,5,138.125
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,barnacle,Mopalia spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,barnacle,Nucella lamellosa,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,barnacle,Nucella spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,barnacle,Nuttallina spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,barnacle,Ocenebra circumtexta,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,barnacle,Ocenebra spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,barnacle,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,barnacle,Pagurus spp,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,barnacle,Tegula funebralis,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,barnacle,Tonicella lineata/lokii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Cyanoplax hartwegii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Cyanoplax spp,chitons,2,1,5,0.2
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Fissurella volcano,limpets,5,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Hemigrapsus nudus,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Limpet,limpets,5,391.625,5,78.325
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Littorina spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Mopalia spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Nucella lamellosa,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Nucella spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Nuttallina spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Ocenebra circumtexta,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Ocenebra spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Pagurus spp,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Tegula funebralis,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,138,SU15,fucus,Tonicella lineata/lokii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,barnacle,Cyanoplax hartwegii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,barnacle,Cyanoplax spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,barnacle,Fissurella volcano,limpets,5,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,barnacle,Hemigrapsus nudus,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,barnacle,Limpet,limpets,5,2,5,0.4
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,barnacle,Littorina spp,snails,3,121.875,5,24.375
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,barnacle,Mopalia spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,barnacle,Nucella lamellosa,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,barnacle,Nucella spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,barnacle,Nuttallina spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,barnacle,Ocenebra circumtexta,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,barnacle,Ocenebra spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,barnacle,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,barnacle,Pagurus spp,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,barnacle,Tegula funebralis,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,barnacle,Tonicella lineata/lokii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Cyanoplax hartwegii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Cyanoplax spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Fissurella volcano,limpets,5,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Hemigrapsus nudus,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Limpet,limpets,5,982.125,5,196.425
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Littorina spp,snails,3,146.875,5,29.375
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Mopalia spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Nucella lamellosa,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Nucella spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Nuttallina spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Ocenebra circumtexta,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Ocenebra spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Pagurus spp,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Tegula funebralis,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,142,SU16,fucus,Tonicella lineata/lokii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,barnacle,Cyanoplax hartwegii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,barnacle,Cyanoplax spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,barnacle,Fissurella volcano,limpets,5,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,barnacle,Hemigrapsus nudus,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,barnacle,Limpet,limpets,5,7.25,5,1.45
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,barnacle,Littorina spp,snails,3,165.625,5,33.125
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,barnacle,Mopalia spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,barnacle,Nucella lamellosa,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,barnacle,Nucella spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,barnacle,Nuttallina spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,barnacle,Ocenebra circumtexta,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,barnacle,Ocenebra spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,barnacle,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,barnacle,Pagurus spp,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,barnacle,Tegula funebralis,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,barnacle,Tonicella lineata/lokii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Cyanoplax hartwegii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Cyanoplax spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Fissurella volcano,limpets,5,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Hemigrapsus nudus,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Limpet,limpets,5,651.875,5,130.375
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Littorina spp,snails,3,90.625,5,18.125
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Mopalia spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Nucella lamellosa,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Nucella spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Nuttallina spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Ocenebra circumtexta,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Ocenebra spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Pagurus spp,crustaceans,1,2,5,0.4
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Tegula funebralis,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3750,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,146,SU17,fucus,Tonicella lineata/lokii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,barnacle,Cyanoplax hartwegii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,barnacle,Cyanoplax spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,barnacle,Fissurella volcano,limpets,5,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,barnacle,Hemigrapsus nudus,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,barnacle,Limpet,limpets,5,91.625,5,18.325
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,barnacle,Littorina spp,snails,3,765.625,5,153.125
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,barnacle,Mopalia spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,barnacle,Nucella lamellosa,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,barnacle,Nucella spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,barnacle,Nuttallina spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,barnacle,Ocenebra circumtexta,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,barnacle,Ocenebra spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,barnacle,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,barnacle,Pagurus spp,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,barnacle,Tegula funebralis,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,barnacle,Tonicella lineata/lokii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,fucus,Cyanoplax hartwegii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,fucus,Cyanoplax spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,fucus,Fissurella volcano,limpets,5,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,fucus,Hemigrapsus nudus,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,fucus,Limpet,limpets,5,1215.625,5,243.125
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,fucus,Littorina spp,snails,3,50,5,10
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,fucus,Mopalia spp,chitons,2,1,5,0.2
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,fucus,Nucella lamellosa,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,fucus,Nucella spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,fucus,Nuttallina spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,fucus,Ocenebra circumtexta,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,fucus,Ocenebra spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,fucus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,fucus,Pagurus spp,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,fucus,Tegula funebralis,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,150,SU18,fucus,Tonicella lineata/lokii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,barnacle,Cyanoplax hartwegii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,barnacle,Cyanoplax spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,barnacle,Fissurella volcano,limpets,5,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,barnacle,Hemigrapsus nudus,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,barnacle,Limpet,limpets,5,29.125,5,5.825
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,barnacle,Littorina spp,snails,3,184.375,5,36.875
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,barnacle,Mopalia spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,barnacle,Nucella lamellosa,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,barnacle,Nucella spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,barnacle,Nuttallina spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,barnacle,Ocenebra circumtexta,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,barnacle,Ocenebra spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,barnacle,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,barnacle,Pagurus spp,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,barnacle,Tegula funebralis,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,barnacle,Tonicella lineata/lokii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,fucus,Cyanoplax hartwegii,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,fucus,Cyanoplax spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,fucus,Fissurella volcano,limpets,5,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,fucus,Hemigrapsus nudus,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,fucus,Limpet,limpets,5,928.125,5,185.625
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,fucus,Littorina spp,snails,3,15.625,5,3.125
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,fucus,Mopalia spp,chitons,2,1,5,0.2
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,fucus,Nucella lamellosa,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,fucus,Nucella spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,fucus,Nuttallina spp,chitons,2,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,fucus,Ocenebra circumtexta,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,fucus,Ocenebra spp,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,fucus,Pachygrapsus crassipes,crustaceans,1,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,fucus,Pagurus spp,crustaceans,1,1,5,0.2
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,fucus,Tegula funebralis,snails,3,0,5,0
+Manchester State Park; Central Puget Sound,manchester,3490,47.57688141,-122.54411,,UW,MAN,WA Salish Sea,WA Salish Sea,154,SU19,fucus,Tonicella lineata/lokii,chitons,2,0,5,0
